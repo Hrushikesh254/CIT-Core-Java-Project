@@ -3,29 +3,17 @@
 <p> <b>Description:</b> The Pizzamania is a new pizza outlet and it wants to automate the pizza-billing process in Java way. Assuming that Pizzamania is going to have four variants of Pizza.
   <ol>
     <li>Veg Pizza</li>
-  </ol>
-  <ol> 
     <li>Non-Veg Pizza</li>
-  </ol>
-  <ol>
     <li>Delux Veg Pizza --already loaded with extra cheese & extra toppings</li>
-  </ol>
-  <ol>
     <li>Delux Non-Veg Pizza -- already loaded with extra cheese & extra toppings</li>
   </ol>
   </hr>
+  
   <ul>
     <li>Create menu driven app which first ask to select type of pizza.</li>
-  </ul>
-  <ul>
     <li>After selecting pizza type it should ask for Extra Cheese, Extra Toppings</li>
-  </ul>
-  <ul>
     <li>For Delux Pizza it should not ask Extra cheese & Extra toppings, it's already loaded. Finally it should ask for whether to opt for take away (Packaging Charges).</li>
-  </ul>
-  <ul>
   <li>Generate the Bill.</li>
-  </ul>
   </ul>
 </hr>
 <b>Below are the pricing details to create the application.</b>
