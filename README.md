@@ -2,6 +2,7 @@
 <h1>Create Pizza Bill Generator App using core java.</h1>
 <hr>
 <p> <b>Description:</b> The Pizzamania is a new pizza outlet and it wants to automate the pizza-billing process in Java way. Assuming that Pizzamania is going to have four variants of Pizza.
+  <hr>
   <ol>
     <li>Veg Pizza</li>
     <li>Non-Veg Pizza</li>
