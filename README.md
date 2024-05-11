@@ -7,14 +7,14 @@
     <li>Delux Veg Pizza --already loaded with extra cheese & extra toppings</li>
     <li>Delux Non-Veg Pizza -- already loaded with extra cheese & extra toppings</li>
   </ol>
-</hr>
+<hr>
   <ul>
     <li>Create menu driven app which first ask to select type of pizza.</li>
     <li>After selecting pizza type it should ask for Extra Cheese, Extra Toppings</li>
     <li>For Delux Pizza it should not ask Extra cheese & Extra toppings, it's already loaded. Finally it should ask for whether to opt for take away (Packaging Charges).</li>
   <li>Generate the Bill.</li>
   </ul>
-</hr>
+<hr>
 <b>Below are the pricing details to create the application.</b>
   <table>
   <tr>
